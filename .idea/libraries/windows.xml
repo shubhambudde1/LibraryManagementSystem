@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="windows">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/drivers/windows/mysql-connector-java-5.0.8-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/windows/commons-lang3-3.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
